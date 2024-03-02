@@ -30,7 +30,7 @@ The `passwords.txt` has the following format:
 ```
 
 The script also awaits a bitwarden json file (format from 2023 - 2024) in the root: `bitwarden*.json`.
-The folders names are the prefixed to the account name of each item, like:
+The folders names are prefixed to the account name of each item, like:
 
 ```
 <folder_name>_<name>
