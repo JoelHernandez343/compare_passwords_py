@@ -17,7 +17,7 @@ python -m pip install -r requirements.txt
 
 ## Usage
 
-I had a `passwords.txt` plain text file where I was storing my passwords... I know, pretty awkward and insecure practice :disappointed:
+I had a `passwords.txt` plain text file where I was storing my passwords... I know, pretty awkward and insecure practice :disappointed:.
 The `passwords.txt` has the following format:
 
 ```txt
